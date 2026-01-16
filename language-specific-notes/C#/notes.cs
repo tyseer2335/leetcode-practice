@@ -41,6 +41,7 @@ var name = "Tyseer"; // type inference
 Console.WriteLine("var name = " + name);
 
 
+
 // -- Arithmetic Operations -- 
 // Performing basic math operations between different numeric types
 int a = 10; 
