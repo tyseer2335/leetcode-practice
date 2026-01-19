@@ -23,6 +23,7 @@ class Solution:
         # If they are the same than we must have an anagram else its not
         return h1 == h2
                 
+        # Time taken 4:31
         # Time Complexity O(n)
-        # Space Complexity O(n)
+        # Space Complexity O(n) 
         # Where n is len(s) + len(t)
