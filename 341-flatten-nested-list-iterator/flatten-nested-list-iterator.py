@@ -63,6 +63,3 @@ class NestedIterator:
     def hasNext(self) -> bool: 
         return self.index < len(self.nestedList)
          
-# Time Taken: 31:39 
-# Time Complexity: O(n) 
-# Space Complexity: O(1)
