@@ -65,3 +65,4 @@ class NestedIterator:
          
 # Time Taken: 31:39 
 # Time Complexity: O(n) 
+# Space Complexity: O(1)
