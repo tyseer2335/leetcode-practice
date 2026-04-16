@@ -13,7 +13,7 @@ class Solution:
         # Loop through the remaining characters
         for i in range(0, len(searchWord)): 
 
-            # The inner array of result we build at each iteration
+       
             temp = [] 
 
             # Increase our word s by one more character
